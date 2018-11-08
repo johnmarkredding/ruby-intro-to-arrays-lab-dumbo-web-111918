@@ -18,9 +18,9 @@ end
 def first_element_with_array_methods(arr)
   arr.first_element
 end
-def last_element_with_array_methods
-      takes in an argument of an array and returns the last element in the array, wihtout referencing the index number (FAILED - 9)
+def last_element_with_array_methods(arr)
+  arr.last_element
 end
-def length_of_array
-      takes in an argrument of an array and returns the length of the array (FAILED - 10)
+def length_of_array(arr)
+  arr.length
 end
