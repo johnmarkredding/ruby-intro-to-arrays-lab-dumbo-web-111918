@@ -3,8 +3,7 @@ def instantiate_new_array
   arr
 end
 def array_with_two_elements
-      creates a new array with two elements in it and returns that array (FAILED - 3)
-      returns an array that has 2 objects in it (FAILED - 4)
+  arr = [2,3]
 end
 def first_element
       takes in an argument of an array and returns the first element in the array using its positive index (FAILED - 5)
